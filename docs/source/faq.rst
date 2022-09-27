@@ -89,7 +89,8 @@ Is mypy free?
 *************
 
 Yes. Mypy is free software, and it can also be used for commercial and
-proprietary projects. Mypy is available under the MIT license.
+proprietary projects. Mypy is available under the MIT license and
+the PSF 2 License.
 
 Can I use duck typing with mypy?
 ********************************
